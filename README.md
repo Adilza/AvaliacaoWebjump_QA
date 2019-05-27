@@ -1,4 +1,4 @@
-#Avaliação Webjump | QA
+Avaliação Webjump | QA
 Automação
 Importante: Essa questão não é obrigatória, caso você não saiba fazer automação. Neste caso, também não é necessário responder esta parte de forma dissertativa.
 Apenas informe o recrutador e deixe alinhado que a automação não foi feita e responda por gentileza as próximas seções.
