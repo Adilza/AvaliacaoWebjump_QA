@@ -25,5 +25,7 @@ ChromeDriver 2.46.628402
 **_Passo -a- passo:_**
 
 (Menu)File>>Open Folder (abrir o projeto no Visual Studio Code)
+
 (Menu)Terminal>>(abrir o terminal, e executar o camando "bundle install")
+
 (Menu)Terminal>> executar o camando "rspec" para executar todo o projeto, ou executar o camando "rspec --tag @cenario01",ou "rspec --tag @cenario02" ou "rspec --tag @cenario03" para executar um cenário por vez. 
