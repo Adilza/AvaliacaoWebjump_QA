@@ -1,11 +1,11 @@
 #Avaliação Webjump | QA
-###Automação
+Automação
 Importante: Essa questão não é obrigatória, caso você não saiba fazer automação. Neste caso, também não é necessário responder esta parte de forma dissertativa.
 Apenas informe o recrutador e deixe alinhado que a automação não foi feita e responda por gentileza as próximas seções.
 Para aplicar os cenários solicitados, por favor acesse:
 https://webjump-user.github.io/testqa/
 
-**Levando em consideração a página que foi especificada:**
+Levando em consideração a página que foi especificada:
 
 1) Crie um cenário onde clicamos nos botões "One", "Two, e "Four", depois verifique a ausência dos mesmos.
 2) Dentro da mesma página, clique nos botões "One", "Two" e "Four" que encontram-se dentro do painel "IFRAME BUTTONS" e valide a não-presença dos mesmos.
@@ -14,10 +14,9 @@ https://webjump-user.github.io/testqa/
 
 4) Documente as versões das ferramentas utilizadas (O.S, Ruby, Firefox, Geckodriver, Chromedriver, etc.) e crie um step-by-step informando como configurar e utilizar esse ambiente, levando em conta a possibilidade de alguma pessoa iniciante dar continuidade em um projeto feito por você.s
 
-Ruby:
-<!-- ruby 2.3.3p222 (2016-11-21 revision 56859)  -->
-Chromedriver: 
-<!-- ChromeDriver 2.46.628402 -->
+
+Ruby 2.3.3p222 (2016-11-21 revision 56859) 
+ChromeDriver 2.46.628402
 
 **_Pré-requisito:_**
 -Visual Studio Code instalado
